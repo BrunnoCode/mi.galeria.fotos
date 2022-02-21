@@ -1,12 +1,14 @@
 body{
     width: 100%;
     height: 100%;
+    
 }
 
 .menu-principal{
     width: 100%;
     background-color: rgb(27, 27, 27);
-    height: 60px;
+    height: 85px;
+   
 
 }
 
@@ -14,5 +16,11 @@ main {
     margin: 0 auto;
     width: 980px;
     position: relative;
+}
+
+
+#fundo{
+    height: 100%;
+    width: 100%;
 }
 
